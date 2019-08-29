@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/@gingerhendrix/use-interval-timer/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/@gingerhendrix/use-interval-timer/static/js/main.67d91248.chunk.js",
+    "main.js.map": "/@gingerhendrix/use-interval-timer/static/js/main.67d91248.chunk.js.map",
+    "runtime~main.js": "/@gingerhendrix/use-interval-timer/static/js/runtime~main.2b0c42e7.js",
+    "runtime~main.js.map": "/@gingerhendrix/use-interval-timer/static/js/runtime~main.2b0c42e7.js.map",
+    "static/js/2.e45a3565.chunk.js": "/@gingerhendrix/use-interval-timer/static/js/2.e45a3565.chunk.js",
+    "static/js/2.e45a3565.chunk.js.map": "/@gingerhendrix/use-interval-timer/static/js/2.e45a3565.chunk.js.map",
+    "index.html": "/@gingerhendrix/use-interval-timer/index.html",
+    "precache-manifest.bb9756691484340a20e09e78530fb1b8.js": "/@gingerhendrix/use-interval-timer/precache-manifest.bb9756691484340a20e09e78530fb1b8.js",
+    "service-worker.js": "/@gingerhendrix/use-interval-timer/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/@gingerhendrix/use-interval-timer/static/css/main.2c6a48fe.chunk.css.map"
+  }
+}
