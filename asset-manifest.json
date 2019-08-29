@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/@gingerhendrix/use-interval-timer/static/css/main.2c6a48fe.chunk.css",
-    "main.js": "/@gingerhendrix/use-interval-timer/static/js/main.67d91248.chunk.js",
-    "main.js.map": "/@gingerhendrix/use-interval-timer/static/js/main.67d91248.chunk.js.map",
-    "runtime~main.js": "/@gingerhendrix/use-interval-timer/static/js/runtime~main.2b0c42e7.js",
-    "runtime~main.js.map": "/@gingerhendrix/use-interval-timer/static/js/runtime~main.2b0c42e7.js.map",
-    "static/js/2.e45a3565.chunk.js": "/@gingerhendrix/use-interval-timer/static/js/2.e45a3565.chunk.js",
-    "static/js/2.e45a3565.chunk.js.map": "/@gingerhendrix/use-interval-timer/static/js/2.e45a3565.chunk.js.map",
-    "index.html": "/@gingerhendrix/use-interval-timer/index.html",
-    "precache-manifest.bb9756691484340a20e09e78530fb1b8.js": "/@gingerhendrix/use-interval-timer/precache-manifest.bb9756691484340a20e09e78530fb1b8.js",
-    "service-worker.js": "/@gingerhendrix/use-interval-timer/service-worker.js",
-    "static/css/main.2c6a48fe.chunk.css.map": "/@gingerhendrix/use-interval-timer/static/css/main.2c6a48fe.chunk.css.map"
+    "main.css": "/use-interval-timer/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/use-interval-timer/static/js/main.67d91248.chunk.js",
+    "main.js.map": "/use-interval-timer/static/js/main.67d91248.chunk.js.map",
+    "runtime~main.js": "/use-interval-timer/static/js/runtime~main.d09cb359.js",
+    "runtime~main.js.map": "/use-interval-timer/static/js/runtime~main.d09cb359.js.map",
+    "static/js/2.e45a3565.chunk.js": "/use-interval-timer/static/js/2.e45a3565.chunk.js",
+    "static/js/2.e45a3565.chunk.js.map": "/use-interval-timer/static/js/2.e45a3565.chunk.js.map",
+    "index.html": "/use-interval-timer/index.html",
+    "precache-manifest.9860536ef313e82038dda2a468380096.js": "/use-interval-timer/precache-manifest.9860536ef313e82038dda2a468380096.js",
+    "service-worker.js": "/use-interval-timer/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/use-interval-timer/static/css/main.2c6a48fe.chunk.css.map"
   }
 }
