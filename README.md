@@ -1,8 +1,8 @@
 # @gingerhendrix/use-interval-timer
 
-> React hook for interval based timer
+React hook for interval based timer
 
-[![NPM](https://img.shields.io/npm/v/@gingerhendrix/use-interval-timer.svg)](https://www.npmjs.com/package/@gingerhendrix/use-interval-timer) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@gingerhendrix/use-interval-timer.svg)](https://www.npmjs.com/package/@gingerhendrix/use-interval-timer)
 
 ## Install
 
@@ -15,13 +15,13 @@ npm install --save @gingerhendrix/use-interval-timer
 ```tsx
 import * as React from 'react'
 
-import { useMyHook } from '@gingerhendrix/use-interval-timer'
+import useIntervalTimer from '@gingerhendrix/use-interval-timer'
 
 const Example = () => {
-  const example = useMyHook()
+  const {tick} = useIntervalTimer({interval: 100, maxTicks: 200})
   return (
     <div>
-      {example}
+      {tick}
     </div>
   )
 }

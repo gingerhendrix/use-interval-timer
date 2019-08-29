@@ -1,12 +1,12 @@
 import React from 'react'
 
-import { useMyHook } from '@gingerhendrix/use-interval-timer'
+import useIntervalTimer from '@gingerhendrix/use-interval-timer'
 
 const App = () => {
-  const example = useMyHook()
+  const {tick} = useIntervalTimer({interval: 100, maxTicks: 100});
   return (
     <div>
-      {example}
+      {tick}
     </div>
   )
 }

@@ -1,7 +1,7 @@
-import { useMyHook } from './'
+import useIntervalTimer from './'
 
-describe('useMyHook', () => {
+describe('useIntervalTimer', () => {
   it('is truthy', () => {
-    expect(useMyHook).toBeTruthy()
+    expect(useIntervalTimer).toBeTruthy()
   })
 })
